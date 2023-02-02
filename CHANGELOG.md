@@ -1,5 +1,11 @@
 # nabo
 
+## 0.1.4
+
+### Patch Changes
+
+- e47013a: Run tests as part of CI pipeline.
+
 ## 0.1.3
 
 ### Patch Changes
