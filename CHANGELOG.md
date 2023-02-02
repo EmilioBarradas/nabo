@@ -1,5 +1,11 @@
 # nabo
 
+## 0.1.2
+
+### Patch Changes
+
+- 955b805: Fix branch
+
 ## 0.1.1
 
 ### Patch Changes
