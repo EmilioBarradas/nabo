@@ -1,5 +1,11 @@
 # nabo
 
+## 0.1.3
+
+### Patch Changes
+
+- 0e08a0a: Updated README.md with badge links and package.json with files property.
+
 ## 0.1.2
 
 ### Patch Changes
