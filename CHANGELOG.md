@@ -1,5 +1,11 @@
 # nabo
 
+## 0.1.0
+
+### Minor Changes
+
+- fe51e9f: 🧵 It's just string interpolation.
+
 ## 0.0.1
 
 ### Patch Changes
