@@ -12,6 +12,13 @@
 		"release": "pnpm run build && changeset publish",
 		"preinstall": "npx only-allow pnpm"
 	},
+	"files": [
+		"dist",
+		"package.json",
+		"CHANGELOG.md",
+		"README.md",
+		"LICENSE"
+	],
 	"keywords": [
 		"strings",
 		"string-interpolation"

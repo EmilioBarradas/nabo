@@ -3,8 +3,12 @@
 <h4 align="center">🧵 It's just string interpolation.</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/npm/v/nabo?style=for-the-badge" alt="npm badge">
-    <img src="https://img.shields.io/github/license/EmilioBarradas/nabo?style=for-the-badge" alt="License badge">
+    <a href="https://www.npmjs.com/package/nabo">
+        <img src="https://img.shields.io/npm/v/nabo?style=for-the-badge" alt="npm badge">
+    </a>
+    <a href="https://github.com/EmilioBarradas/nabo/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/EmilioBarradas/nabo?style=for-the-badge" alt="License badge">
+    </a>
 </p>
 
 <p align="center">
@@ -19,7 +23,7 @@
 
 -   TypeScript inference for string literals
 -   Supports nested objects
--   Supports both CJS and ESM
+-   Supports CJS and ESM
 -   No dependencies
 -   2 kb in size
 
