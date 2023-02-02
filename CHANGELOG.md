@@ -1,5 +1,11 @@
 # nabo
 
+## 0.1.1
+
+### Patch Changes
+
+- 09064ea: Fixed README banner image and improved image alt attributes.
+
 ## 0.1.0
 
 ### Minor Changes
