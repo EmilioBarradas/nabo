@@ -9,6 +9,7 @@
 		"build": "tsup src/index.ts --format cjs,esm --dts",
 		"lint": "tsc",
 		"test": "vitest",
+		"release": "pnpm run build && changesets publish",
 		"preinstall": "npx only-allow pnpm"
 	},
 	"keywords": [
