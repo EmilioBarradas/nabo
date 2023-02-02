@@ -35,14 +35,14 @@ npm install nabo
 import { nabo } from "nabo";
 
 nabo(
-	`There are {personCount} people.
+    `There are {personCount} people.
      The first person is called {firstPerson.name}.
      The second person is called {secondPerson.name}.
     `,
-	{
-		personCount: "two",
-		firstPerson: { name: "John Doe" },
-		secondPerson: { name: "Jane Doe" },
-	}
+    {
+        personCount: "two",
+        firstPerson: { name: "John Doe" },
+        secondPerson: { name: "Jane Doe" },
+    }
 );
 ```
